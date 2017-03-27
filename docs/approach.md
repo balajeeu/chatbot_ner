@@ -4,7 +4,7 @@
 
 ### **Introduction**
 
-Chatbot is a service, powered by rules and sometimes artificial intelligence (AI), that you interact with via a chat interface. It can be used in applications  ranging from functional to fun. There are several architectures which can be used in the  building chatbot (i.e. Generative based, retrieval based, heuristic based, etc.) and each of this technique somewhere uses entity detection in its pipeline. 
+Chatbot is a service, powered by rules and sometimes artificial intelligence (AI), that you interact with via a chat interface. It can be used in applications  in several industry domains such as customer support, personal assistance, banking, healthcare, dating, etc. There are several architectures which can be used in the  building chatbot (i.e. Generative based, retrieval based, heuristic based, etc.) and each of this technique somewhere uses entity detection in its pipeline. 
 
 In this repository, we are open-sourcing Named-entity recognition (NER) viz. one of the important module in building the chatbots.
 
